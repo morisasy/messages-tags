@@ -1,4 +1,4 @@
-# *Node.js Expres RESTful Message-tags App with Postgres*
+# *Node.js Express RESTful Message-tags App with Postgres*
 
 ## **Prerequisites**
  + createdb messagestags
